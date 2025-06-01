@@ -14,10 +14,10 @@
 
 ---
 
-### 🌟 Featured Projects:
-- 🚀 [My Awesome Project](https://github.com/AldrianCayomoc/awesome-project) - A project that solves XYZ problems.
-- 🛠️ [Portfolio Website](https://github.com/AldrianCayomoc/portfolio) - My personal portfolio built with React and Tailwind.
-
+### 🔍 What I'm Exploring Now:
+- 🧪 API integration with Node.js and Express
+- ⚙️ Automating workflows with GitHub Actions
+- 📱 Mobile-first UI design with Tailwind CSS
 ---
 
 ### 🎯 Goals & Aspirations:
