@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aldrian Cayomoc</h1>
-<h3 align="center">Creative Developer | Tech Enthusiast | Problem Solver 🚀</h3>
+<h3 align="center">UI/UX Designer | Tech Enthusiast | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" height="200" alt="Hello" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" alt="Coding Animation" />
 </p>
+
 
 - 🔭 I’m currently working on dynamic web applications and frontend systems
 - 🌱 I’m learning Laravel, JavaScript frameworks, and database optimization
