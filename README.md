@@ -5,12 +5,11 @@
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" height="200" alt="Hello" />
 </p>
 
-- 🔭 I’m currently working on **dynamic web applications and backend systems**
-- 🌱 I’m learning **Laravel, JavaScript frameworks, and database optimization**
-- 👯 I’m open to collaborating on **exciting and impactful projects**
-- 💬 Ask me about **PHP, JavaScript, or anything tech-related!**
-- 📫 Reach me at: **aldriancayomoc@example.com**
-- ⚡ Fun fact: I can write code faster than I can write a text 😅
+- 🔭 I’m currently working on dynamic web applications and frontend systems
+- 🌱 I’m learning Laravel, JavaScript frameworks, and database optimization
+- 👯 I’m open to collaborating on exciting and impactful projects
+- 📫 Reach me at: aldriancayomoc@gmail.com
+- ⚡ Fun fact: I don't even know how to code. sorry😅
 
 ---
 
@@ -20,21 +19,25 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🎯 Goals & Aspirations:
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Build-Scalable%20Full--Stack%20Apps-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white" alt="Build Scalable Apps" />
+  <img src="https://img.shields.io/badge/Contribute-Open%20Source-blue?style=for-the-badge&logo=github&logoColor=white" alt="Contribute Open Source" />
+  <img src="https://img.shields.io/badge/Learn-Advanced%20DevOps-red?style=for-the-badge&logo=gitlab&logoColor=white" alt="Learn DevOps" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="mailto:aldriancayomoc@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/aldriancayomoc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/aldriancayomoc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:aldriancayomoc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://facebook.com/aldriancayomoc" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/aldriancayomoc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
